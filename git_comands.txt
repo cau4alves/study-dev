@@ -1,0 +1,12 @@
+git config --list
+git config --global user.name cau4alves 
+git config --global user.email cau4alves@gmail.com
+
+git clone link_repositorio
+
+git add .
+
+git commit -m ""
+
+git push
+
